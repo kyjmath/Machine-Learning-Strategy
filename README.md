@@ -6,6 +6,7 @@
 
 
 2.	배경
+
 Name of technical indicator:| Type of technical indicator:
 ------|------
 Momentum | Oscillators
@@ -33,6 +34,7 @@ Volatility | Stochastics
 Chaikin Volatility | Stochastics
 William’s % R | Stochastics
 William’s Accumulation Distribution Line | Indicators
+
 
 - 수많은 스토캐스틱 지수를 통해 주가의 상승과 하락을 예측할 수 있다. 머신러닝을 이용해 이 지수들의 예측 성능을 평가하고 최적의 매수, 매도 포지션 포트폴리오를 제작한다.
 
